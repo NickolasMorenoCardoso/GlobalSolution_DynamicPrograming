@@ -20,5 +20,27 @@ O usuário consegue **enviar um CSV** e o sistema gera as análises automaticame
 
 ---
 
-**Agradecimentos**
+## Tecnologias Usadas
+
+**📌 Linguagem**
+
+- Python
+
+**📌 Bibliotecas de Manipulação e Análise de Dados**
+
+- pandas 
+- numpy 
+- scipy 
+
+**📌 Bibliotecas de Visualização**
+
+- matplotlib
+- seaborn 
+- plotly
+
+**📌 Framework Web**
+
+- Streamlit
+
+##  Agradecimentos
 Agradecemos todas as contribuições, grandes ou pequenas! Sua ajuda é fundamental para o crescimento e melhoria contínua deste nosso grande projeto.
