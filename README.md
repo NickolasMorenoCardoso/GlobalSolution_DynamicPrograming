@@ -1,5 +1,5 @@
-# 📊 CP1 – Dashboard Profissional com Python & Streamlit  
-**Disciplina:** Data Analytics  
+# GS Dashboard Profissional com Python & Streamlit  
+**Disciplina:** Dynamic Programing
 
 ## 👥 Integrantes  
 - **Nickolas Moreno Cardoso – RM557132**  
@@ -17,3 +17,8 @@ Desenvolvemos um **dashboard profissional** usando **Python + Streamlit**, junta
 - Testes de hipótese  
 
 O usuário consegue **enviar um CSV** e o sistema gera as análises automaticamente.
+
+---
+
+**Agradecimentos**
+Agradecemos todas as contribuições, grandes ou pequenas! Sua ajuda é fundamental para o crescimento e melhoria contínua deste nosso grande projeto.
